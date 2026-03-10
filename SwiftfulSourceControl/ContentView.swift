@@ -36,7 +36,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Tarik !")
             
-            Button("Subscribe"){
+            Button("Subscribe now !"){
                 
             }
         
