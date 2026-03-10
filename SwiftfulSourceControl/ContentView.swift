@@ -42,7 +42,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Tarik  selam selam !")
+            Text("Tarik !")
             
             Button("Subscribe"){
                 
