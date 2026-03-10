@@ -5,6 +5,26 @@
 //  Created by Ömer Tarık Şener on 9.03.2026.
 //
 
+/*
+ COMMIT MESSAGES
+ 
+ NEW FEATURE:
+ [Feature] Description of the feature
+ 
+ BUG IN PRODUCTION:
+ [Patch] Description of patch
+ 
+ BUG NOT IN PRODUCTION:
+ [Bug] Description of the bug
+ 
+ MUNDANE TASKS:
+ [Clean] Desription of changes
+ 
+ RELEASE:
+ [Release] Description of release
+ 
+ */
+
 import SwiftUI
 
 struct ContentView: View {
@@ -19,7 +39,7 @@ struct ContentView: View {
             Button("Click me"){
                 
             }
-            .background(Color.green)
+            .background(Color.red)
         }
         .padding()
     }
