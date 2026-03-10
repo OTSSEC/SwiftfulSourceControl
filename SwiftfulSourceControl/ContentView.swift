@@ -11,14 +11,14 @@
  NEW FEATURE:
  [Feature] Description of the feature
  
+ MUNDANE TASKS:
+ [Clean] Desription of changes
+ 
  BUG IN PRODUCTION:
  [Patch] Description of patch
  
  BUG NOT IN PRODUCTION:
  [Bug] Description of the bug
- 
- MUNDANE TASKS:
- [Clean] Desription of changes
  
  RELEASE:
  [Release] Description of release
