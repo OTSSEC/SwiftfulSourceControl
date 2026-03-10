@@ -15,7 +15,10 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Tarik Tarik Tarik !")
-            
+        
+            Button("Click me"){
+                
+            }
         
         }
         .padding()
