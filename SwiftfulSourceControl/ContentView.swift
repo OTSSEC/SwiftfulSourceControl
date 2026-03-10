@@ -14,12 +14,12 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Tarik Tarik Tarik !")
+            Text("Tarik !")
         
             Button("Click me"){
                 
             }
-            .background(Color.red)
+            .background(Color.green)
         }
         .padding()
     }
