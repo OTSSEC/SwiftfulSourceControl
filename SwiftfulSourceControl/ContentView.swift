@@ -35,6 +35,10 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Tarik !")
+            
+            Button("Subscribe"){
+                
+            }
         
             Button("Click me"){
                 
